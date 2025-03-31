@@ -1,0 +1,7 @@
+name: Rolepaper
+author: JxstColin, Chxotischer, elNino0916
+version: 1.0
+main: eu.jxstcolin.main.Rolepaper
+api-version: 1.21
+
+commands:
